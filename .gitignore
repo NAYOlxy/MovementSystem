@@ -1,0 +1,11 @@
+[Ll]ogs/
+/.vs
+/Assembly-CSharp.csproj
+/.vsconfig
+/.plastic
+/obj
+/Temp
+/Library
+/GenshinImpactMovementSystem.sln
+/UserSettings
+/ignore.conf
